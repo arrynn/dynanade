@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/arrynn/dynanade/issues"
   },
-  "homepage": "https://github.com/arrynn/dynanade#readme"
+  "homepage": "https://github.com/arrynn/dynanade#readme",
+  "dependencies": {
+    "@types/socket.io": "^2.1.2",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.0.0",
+    "eslint": "^5.16.0",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.4.5"
+  }
 }
